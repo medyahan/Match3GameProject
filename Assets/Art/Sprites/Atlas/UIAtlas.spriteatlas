@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 07e622413df780e49b42332f2ccce47c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9ef89610fa640b64ab380acacd6a85a8, type: 3}
+  - {fileID: 21300000, guid: fb8c4a40072d376429f27e934da4ca4c, type: 3}
+  - {fileID: 21300000, guid: 02bdc5f95c308574ca91dc31018fe75d, type: 3}
+  - {fileID: 21300000, guid: bc2f46eb0838b8043a66165e8a4f717d, type: 3}
+  - {fileID: 21300000, guid: 4deb1a0c7896b524bb5f60ab868ea71e, type: 3}
+  - {fileID: 21300000, guid: 79cb2fae0353f21478f820027500560c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui_panel_bg_white
+  - ui_frame_12px
+  - ui_panel_bg_black
+  - ui_frame_4px
+  - ui_square
+  - ui_frame_edge
+  m_RenderDataMap: {}
+  m_Tag: UIAtlas
+  m_IsVariant: 0
