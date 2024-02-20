@@ -89,7 +89,7 @@ namespace Match3Game.GameBoard
             }
             
             // Adjust the scale of the grid background to match the grid dimensions.
-            _gridBackgroundTransform.localScale = new Vector3(_gridWidth, _gridHeight);
+            //_gridBackgroundTransform.localScale = new Vector3(_gridWidth, _gridHeight);
         }
 
         /// <summary>
